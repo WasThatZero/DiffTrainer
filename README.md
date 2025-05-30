@@ -2,6 +2,7 @@
 **English** *[中文（正體）](./README-zh.md)*
 
 # a CustomTkInter GUI for processing and training DiffSinger models
+# but most importantly a fork that removes the anime girl.
 DiffTrainer brings together the most useful tools for DiffSinger in one easy, graphical package.
 - [nnsvs-db-converter](https://github.com/UtaUtaUtau/nnsvs-db-converter) for converting wav+lab data to wav/ds+csv
 - [SOME](https://github.com/openvpi/SOME) for estimating pitch
